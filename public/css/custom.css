@@ -1,0 +1,23 @@
+.signupsuccess {
+    color: #1ce45f;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    letter-spacing: 0.4px;
+}
+.faillogin {
+    color: #e21e1e;
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 20px;
+    letter-spacing: 0.4px;
+}
+.validate_form {
+    color: red;
+    font-size: 15px;
+}
+.info_profile_person {
+    color: white;
+    padding: initial;
+    margin: 10px;
+}
